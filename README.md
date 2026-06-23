@@ -5,5 +5,4 @@ Este proyecto analiza la frecuencia de aparición de números ganadores en las l
 ## 📊 Descripción
 El notebook `frecuencia_ultimos_3_dias.html` consulta una base SQLite y genera una visualización interactiva con Plotly.
 
-## 🧩 Estructura
 [Ver gráfica interactiva](frecuencia_ultimos_3_dias.html)
